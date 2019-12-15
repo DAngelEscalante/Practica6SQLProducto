@@ -1,1 +1,2 @@
-# Practica6SQLProducto
+# Proyecto_LinQ_PRODUCTO_MVC
+ 
